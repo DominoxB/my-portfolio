@@ -1,5 +1,7 @@
 <template>
-  <NameAndProfession />
+  <div class="grid grid-cols-2 m-60">
+    <NameAndProfession />
+  </div>
 </template>
 
 <script>
