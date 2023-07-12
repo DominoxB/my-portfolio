@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import NameAndProfession from './components/atoms/NameAndProfession'
+import NameAndProfession from './components/NameAndProfession.vue'
 export default {
   name: 'App',
   components: {
