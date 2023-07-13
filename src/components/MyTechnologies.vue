@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-20 mx-center">
+  <div class="mt-10 mx-center">
     <div class="flex gap-10">
       <img src="@/icons/html.png" alt="html" class="w-12 h-12" />
       <img src="@/icons/css.png" alt="css" class="w-12 h-12" />
