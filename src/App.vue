@@ -6,7 +6,8 @@
       <MyTechnologies />
       <MySocials />
     </div>
-    <div>
+    <div class="ml-40">
+      <ProfessionalExperience />
     </div>
   </div>
 </template>
@@ -16,13 +17,15 @@ import NameAndProfession from './components/NameAndProfession.vue'
 import MyTechnologies from './components/MyTechnologies.vue'
 import MySocials from './components/MySocials.vue'
 import AboutMe from './components/AboutMe.vue'
+import ProfessionalExperience from './components/ProfessionalExperience.vue'
 export default {
   name: 'App',
   components: {
     NameAndProfession,
     MyTechnologies,
     MySocials,
-    AboutMe
+    AboutMe,
+    ProfessionalExperience
   }
 }
 </script>
