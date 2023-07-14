@@ -1,6 +1,6 @@
 <template>
   <div class="font-semibold text-gray-400 mt-5">
-    <span>I am a junior frontend developer with half a year of experience in working on commercial projects. I had the opportunity to work with a team of frontend and backend developers. My education is not related to programming, but I decided to learn programming, focusing mainly on Javascript and Vue.</span>
+    <span>{{ $t('aboutMe') }}</span>
   </div>
 </template>
 
