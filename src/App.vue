@@ -1,6 +1,6 @@
 <template>
-  <div class="grid grid-cols-2 m-60">
-    <div class="sticky top-60 h-[calc(100vh-568px)]">
+  <div class="grid grid-cols-2 m-40">
+    <div class="sticky top-40 h-[calc(100vh-528px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
@@ -8,6 +8,7 @@
     </div>
     <div class="ml-40">
       <ProfessionalExperience />
+      <MyProjects />
     </div>
   </div>
 </template>
@@ -18,6 +19,8 @@ import MyTechnologies from './components/MyTechnologies.vue'
 import MySocials from './components/MySocials.vue'
 import AboutMe from './components/AboutMe.vue'
 import ProfessionalExperience from './components/ProfessionalExperience.vue'
+import MyProjects from './components/MyProjects.vue'
+
 export default {
   name: 'App',
   components: {
@@ -25,7 +28,8 @@ export default {
     MyTechnologies,
     MySocials,
     AboutMe,
-    ProfessionalExperience
+    ProfessionalExperience,
+    MyProjects
   }
 }
 </script>
