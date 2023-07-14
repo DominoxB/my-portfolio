@@ -1,6 +1,6 @@
 <template>
-  <div class="text-white mt-36">
-    <span class="font-roboto uppercase font-semibold text-2xl">Projects</span>
+  <div class="text-white mt-20 font-roboto">
+    <span class="uppercase font-semibold text-2xl">Projects</span>
     <div class="relative group">
       <img src="@/images/donutino.png" alt="donutino"
         class="rounded-md border border-gray-400 mt-2 group-hover:opacity-30 transition duration-700" />
@@ -15,7 +15,7 @@
       </a>
     </div>
     <div class="relative group mt-12">
-      <img src="@/images/znananiania.png" alt="donutino"
+      <img src="@/images/znananiania.png" alt="zn"
         class="rounded-md border border-gray-400 mt-2 group-hover:opacity-30 transition duration-700" />
         <div
           class="p-4 opacity-0 group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-200 bg-opacity-30 font-roboto text-gray-50 rounded-b-md">
@@ -25,6 +25,17 @@
           </p>
         </div>
     </div>
+    <div class="relative group mt-12">
+      <img src="@/images/games.jpg" alt="games"
+        class="rounded-md border border-gray-400 mt-2 group-hover:opacity-30 transition duration-700" />
+        <div
+          class="p-4 opacity-0 group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-200 bg-opacity-30 font-roboto text-gray-50 rounded-b-md">
+          <span class="font-bold">Design system for a gaming project</span>
+          <p class="text-xs font-medium">I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).
+          </p>
+        </div>
+    </div>
+    <a href="https://pl.freepik.com/darmowe-wektory/gracze-uzywajacy-roznych-urzadzen-i-grajacy-na-telefonie-komorkowym-tablecie-laptopie-konsoli-ilustracja-kreskowka_12699087.htm#query=computer%20games&position=2&from_view=search&track=ais" class="text-[10px]">Obraz autorstwa pch.vector na Freepik</a> 
   </div>
 </template>
 
