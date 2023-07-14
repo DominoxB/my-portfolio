@@ -1,20 +1,15 @@
 <template>
   <div class="text-white">
-    <span class="uppercase font-semibold text-2xl">Experience</span>
-    <li class="mt-2 font-medium">Junior Frontend Developer</li>
-    <p class="italic">EnterPreis IT services Maciej Preis</p>
-    <p class="italic">2022/12 – 2023/06</p>
-    <p class="text-sm">As a Junior developer at the beginning I was responsible for the implementation of the
-      assigned tasks related to the front (styling, creating components and logic). Later, I also
-      participated in designing entire projects and combining work on the front side with the
-      backend.
+    <span class="uppercase font-semibold text-2xl">{{ $t('experience') }}</span>
+    <li class="mt-2 font-medium">{{ $t('job') }}</li>
+    <p class="italic">{{ $t('enterPreis') }}</p>
+    <p class="italic">{{ $t('jobDate') }}</p>
+    <p class="text-sm">{{ $t('jobDesc') }}
     </p>
-    <li class="mt-8 font-medium">Mentoring Participant</li>
-    <p class="italic">EnterPreis IT services Maciej Preis</p>
-    <p class="italic">2021/12 – 2022/11</p>
-    <p class="text-sm">I was a participant of the training where I learned the specifics of a developer's work. I
-      had the opportunity to learn the basics of programming, teamwork, debugging and
-      problem solving process.
+    <li class="mt-8 font-medium">{{ $t('mentoring') }}</li>
+    <p class="italic">{{ $t('enterPreis') }}</p>
+    <p class="italic">{{ $t('mentoringDate') }}</p>
+    <p class="text-sm">{{ $t('mentoringDesc') }}
     </p>
   </div>
 </template>
