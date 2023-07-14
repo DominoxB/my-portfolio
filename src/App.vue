@@ -1,12 +1,12 @@
 <template>
-  <div class="grid grid-cols-2 m-40">
-    <div class="sticky top-40 h-[calc(100vh-528px)]">
+  <div class="m-10 md:grid md:grid-cols-2 md:m-40 font-roboto">
+    <div class="md:sticky md:top-40 md:h-[calc(100vh-528px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
       <MySocials />
     </div>
-    <div class="ml-40">
+    <div class="mt-12 md:mt-0 md:ml-40">
       <ProfessionalExperience />
       <MyProjects />
     </div>

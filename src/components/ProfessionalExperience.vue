@@ -1,6 +1,6 @@
 <template>
   <div class="text-white">
-    <span class="font-roboto uppercase font-semibold text-2xl">Experience</span>
+    <span class="uppercase font-semibold text-2xl">Experience</span>
     <li class="mt-2 font-medium">Junior Frontend Developer</li>
     <p class="italic">EnterPreis IT services Maciej Preis</p>
     <p class="italic">2022/12 – 2023/06</p>
