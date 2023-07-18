@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-40 text-white font-semibold tracking-widest">
+  <div class="hidden md:block mt-40 text-white font-semibold tracking-widest">
     <div class="flex items-center gap-4">
       <img src="@/icons/github.png" alt="github" class="w-8 h-8" />
       <a href="https://github.com/DominoxB" target="_blank">

@@ -6,8 +6,9 @@
       </option>
     </select>
   </div>
+  <MySocialsMobile />
   <div class="m-10 md:grid md:grid-cols-2 md:m-40 font-roboto">
-    <div class="md:sticky md:top-40 md:h-[calc(100vh-547px)]">
+    <div class="text-center md:text-start md:sticky md:top-40 md:h-[calc(100vh-547px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
@@ -24,6 +25,7 @@
 import NameAndProfession from './components/NameAndProfession.vue'
 import MyTechnologies from './components/MyTechnologies.vue'
 import MySocials from './components/MySocials.vue'
+import MySocialsMobile from './components/MySocialsMobile.vue'
 import AboutMe from './components/AboutMe.vue'
 import ProfessionalExperience from './components/ProfessionalExperience.vue'
 import MyProjects from './components/MyProjects.vue'
@@ -34,6 +36,7 @@ export default {
     NameAndProfession,
     MyTechnologies,
     MySocials,
+    MySocialsMobile,
     AboutMe,
     ProfessionalExperience,
     MyProjects
