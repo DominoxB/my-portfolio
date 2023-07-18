@@ -1,17 +1,13 @@
 <template>
-      <div id="charger" class="sticky top-2 mr-2 mt-2 font-roboto text-white flex justify-end">
-      <select v-model="$i18n.locale" class="cursor-pointer bg-transparent">
-        <option
-          v-for="locale in $i18n.availableLocales"
-          :key="`locale-${locale}`"
-          :value="locale"
-        >
-          {{ locale }}
-        </option>
-      </select>
-    </div>
+  <div id="charger" class="sticky top-2 mr-2 mt-2 font-roboto text-white flex justify-end">
+    <select v-model="$i18n.locale" class="cursor-pointer bg-transparent">
+      <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">
+        {{ locale }}
+      </option>
+    </select>
+  </div>
   <div class="m-10 md:grid md:grid-cols-2 md:m-40 font-roboto">
-    <div class="md:sticky md:top-40 md:h-[calc(100vh-528px)]">
+    <div class="md:sticky md:top-40 md:h-[calc(100vh-547px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
