@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white">
+  <div class="text-white text-justify">
     <span class="uppercase font-semibold text-2xl">{{ $t('experience') }}</span>
     <li class="mt-2 font-medium">{{ $t('job') }}</li>
     <p class="italic">{{ $t('enterPreis') }}</p>

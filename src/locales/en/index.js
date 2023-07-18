@@ -1,7 +1,7 @@
 const en = {
   name: 'Dominika Biedulska',
   job: 'Junior Frontend Developer',
-  aboutMe: 'I am a junior frontend developer with half a year of experience in working on commercial projects. I had the opportunity to work with a team of frontend and backend developers. My education is not related to programming, but I decided to learn programming, focusing mainly on Javascript and Vue.',
+  aboutMe: 'I am a junior frontend developer with half a year of experience in working on commercial projects. I had the opportunity to work with a team of frontend and backend developers as well as directly with the client. My education is not related to programming, but I decided to learn programming, focusing mainly on Javascript and Vue.',
   github: 'DominoxB',
   experience: 'Experience',
   enterPreis: 'EnterPreis IT services Maciej Preis',
@@ -17,7 +17,7 @@ const en = {
   nannyDesc: 'Page for matching parents and nannies. Work on the frontend with using Vue3, Atomic Design, REST API and cooperating with backend team.',
   gameProject: 'Design system for a gaming project',
   gameProjectDesc: 'I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).',
-  freePik: 'Obraz autorstwa pch.vector na Freepik'
+  freePik: 'Image by pch.vector on Freepik'
 }
 
 export default en
