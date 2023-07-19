@@ -17,7 +17,7 @@ const en = {
   nannyDesc: 'Strona do kojarzenia rodziców i niań. Praca nad frontendem z wykorzystaniem Vue3, Atomic Design, REST API oraz współpraca z zespołem backendowym.',
   gameProject: 'Design system dla projektu z branży gier',
   gameProjectDesc: 'Byłam częścią zespołu pracującego nad design systemem dla projektu z branży gier. Wygląd i funkcjonalność aplikacji przygotowaliśmy na podstawie dostarczonego projektu graficznego (w Figmie).',
-  freePik: 'Obraz autorstwa pch.vector na Freepik'
+  freePik: 'Obraz autorstwa vectorjuice na Freepik'
 }
 
 export default en
