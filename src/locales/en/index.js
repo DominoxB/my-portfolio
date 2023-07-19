@@ -17,7 +17,7 @@ const en = {
   nannyDesc: 'Page for matching parents and nannies. Work on the frontend with using Vue3, Atomic Design, REST API and cooperating with backend team.',
   gameProject: 'Design system for a gaming project',
   gameProjectDesc: 'I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).',
-  freePik: 'Image by pch.vector on Freepik'
+  freePik: 'Image by vectorjuice on Freepik'
 }
 
 export default en
