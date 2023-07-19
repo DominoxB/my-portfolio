@@ -1,14 +1,14 @@
 <template>
   <div class="flex justify-end gap-10">
     <MySocialsMobile />
-  <div id="charger" class="sticky top-0 mr-2 mt-8 font-roboto text-white flex justify-end">
-    <select v-model="$i18n.locale" class="cursor-pointer bg-transparent">
-      <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">
-        {{ locale }}
-      </option>
-    </select>
+    <div id="charger" class="sticky top-0 mr-2 mt-8 font-roboto text-white flex justify-end">
+      <select v-model="$i18n.locale" class="cursor-pointer bg-transparent">
+        <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">
+          {{ locale }}
+        </option>
+      </select>
+    </div>
   </div>
-</div>
   <div class="m-10 md:grid md:grid-cols-2 md:m-40 font-roboto">
     <div class="text-center md:text-start md:sticky md:top-40 md:h-[calc(100vh-547px)]">
       <NameAndProfession />
