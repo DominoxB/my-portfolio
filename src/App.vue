@@ -14,6 +14,7 @@
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
+      <DownloadCv />
       <MySocials />
     </div>
     <div class="mt-12 md:mt-0 md:ml-40">
@@ -31,6 +32,7 @@ import MySocialsMobile from './components/MySocialsMobile.vue'
 import AboutMe from './components/AboutMe.vue'
 import ProfessionalExperience from './components/ProfessionalExperience.vue'
 import MyProjects from './components/MyProjects.vue'
+import DownloadCv from './components/DownloadCv.vue'
 
 export default {
   name: 'App',
@@ -41,7 +43,8 @@ export default {
     MySocialsMobile,
     AboutMe,
     ProfessionalExperience,
-    MyProjects
-  }
+    MyProjects,
+    DownloadCv
+}
 }
 </script>
