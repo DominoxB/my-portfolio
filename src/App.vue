@@ -45,6 +45,6 @@ export default {
     ProfessionalExperience,
     MyProjects,
     DownloadCv
-}
+  }
 }
 </script>
