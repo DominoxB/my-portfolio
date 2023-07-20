@@ -2,7 +2,7 @@
   <div class="flex justify-end gap-10">
     <MySocialsMobile />
     <div id="charger" class="mr-2 mt-8 font-roboto text-white flex justify-end">
-      <select v-model="$i18n.locale" class="cursor-pointer bg-transparent">
+      <select v-model="$i18n.locale" class="cursor-pointer bg-black">
         <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">
           {{ locale }}
         </option>
