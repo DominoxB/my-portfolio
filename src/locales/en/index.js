@@ -1,7 +1,7 @@
 const en = {
   name: 'Dominika Biedulska',
   job: 'Junior Frontend Developer',
-  aboutMe: 'I am a junior frontend developer with half a year of experience in working on commercial projects. I had the opportunity to work with a team of frontend and backend developers as well as directly with the client. My education is not related to programming, but I decided to learn programming, focusing mainly on Javascript and Vue.',
+  aboutMe: 'I am a Junior Frontend Developer with half a year of experience in working on commercial projects. I had the opportunity to work with a team of frontend and backend developers as well as directly with the client. My education is not related to programming, but I decided to learn programming, focusing mainly on Javascript and Vue.',
   github: 'DominoxB',
   experience: 'Experience',
   enterPreis: 'EnterPreis IT services Maciej Preis',
