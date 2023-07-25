@@ -8,7 +8,7 @@
         <div
           class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 text-white rounded-b-md">
           <span class="font-bold">{{ $t('shopName') }}</span>
-          <p class="text-xs font-medium mt-1">{{ $t('shopDesc') }}
+          <p class="text-sm font-medium mt-1">{{ $t('shopDesc') }}
           </p>
         </div>
       </a>
@@ -19,7 +19,7 @@
       <div
         class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 rounded-b-md">
         <span class="font-bold">{{ $t('nanny') }}</span>
-        <p class="text-xs mt-1">{{ $t('nannyDesc') }}
+        <p class="text-sm mt-1">{{ $t('nannyDesc') }}
         </p>
       </div>
     </div>
@@ -29,7 +29,7 @@
       <div
         class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 rounded-b-md">
         <span class="font-bold">{{ $t('gameProject') }}</span>
-        <p class="text-xs font-medium mt-1">{{ $t('gameProjectDesc') }}
+        <p class="text-sm font-medium mt-1">{{ $t('gameProjectDesc') }}
         </p>
       </div>
     </div>
