@@ -1,35 +1,38 @@
 <template>
   <div class="mt-20 text-white">
     <span class="uppercase font-semibold text-2xl text-white">{{ $t('projects') }}</span>
+    <!-- DONUTINO -->
     <div class="relative group">
       <img src="@/images/donutino.png" alt="donutino"
-        class="rounded-md border-2 border-white mt-2 opacity-40 md:opacity-100 md:group-hover:opacity-30 transition duration-700" />
+        class="rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/donutshop/" target="_blank">
         <div
-          class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 text-white rounded-b-md">
-          <span class="font-bold">{{ $t('shopName') }}</span>
-          <p class="text-sm font-medium mt-1">{{ $t('shopDesc') }}
+          class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 text-white rounded-b-md lg:opacity-0 lg:group-hover:opacity-100 lg:bg-gray-200 lg:bg-opacity-30 xl:p-8">
+          <span class="text-sm font-bold lg:text-base">{{ $t('shopName') }}</span>
+          <p class="text-xs font-medium mt-1 lg:text-sm">{{ $t('shopDesc') }}
           </p>
         </div>
       </a>
     </div>
+    <!-- ZNANA NIANIA -->
     <div class="relative group mt-12">
       <img src="@/images/znananiania.png" alt="zn"
-        class="rounded-md border-2 border-white mt-2 opacity-40 md:opacity-100 md:group-hover:opacity-30 transition duration-700" />
+        class="rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <div
-        class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 rounded-b-md">
-        <span class="font-bold">{{ $t('nanny') }}</span>
-        <p class="text-sm mt-1">{{ $t('nannyDesc') }}
+        class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 text-white rounded-b-md lg:opacity-0 lg:group-hover:opacity-100 lg:bg-gray-200 lg:bg-opacity-30 xl:p-8">
+        <span class="text-sm font-bold lg:text-base">{{ $t('nanny') }}</span>
+        <p class="text-xs mt-1 lg:text-sm">{{ $t('nannyDesc') }}
         </p>
       </div>
     </div>
+    <!-- BUFFMAKER -->
     <div class="relative group mt-12">
       <img src="@/images/games.jpg" alt="games"
-        class="rounded-md border-2 border-white mt-2 opacity-40 md:opacity-100 md:group-hover:opacity-30 transition duration-700" />
+        class="rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <div
-        class="p-2 md:p-8 opacity-90 md:opacity-0 md:group-hover:opacity-100 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 md:bg-gray-200 md:bg-opacity-30 rounded-b-md">
-        <span class="font-bold">{{ $t('gameProject') }}</span>
-        <p class="text-sm font-medium mt-1">{{ $t('gameProjectDesc') }}
+        class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-gray-400 bg-opacity-20 rounded-b-md lg:opacity-0 lg:group-hover:opacity-100 lg:bg-gray-200 lg:bg-opacity-30 xl:p-8">
+        <span class="text-sm font-bold lg:text-base">{{ $t('gameProject') }}</span>
+        <p class="text-xs font-medium mt-1 lg:text-sm">{{ $t('gameProjectDesc') }}
         </p>
       </div>
     </div>

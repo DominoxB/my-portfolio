@@ -9,15 +9,15 @@
       </select>
     </div>
   </div>
-  <div class="m-10 md:grid md:grid-cols-2 md:m-32 font-roboto">
-    <div class="text-center md:text-start md:sticky md:top-40 md:h-[calc(100vh-617px)]">
+  <div class="m-10 font-roboto lg:grid lg:grid-cols-2 lg:m-32">
+    <div class="text-center lg:text-start lg:sticky lg:top-40 lg:h-[calc(100vh-617px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
       <DownloadCv />
       <MySocials />
     </div>
-    <div class="mt-12 md:mt-0 md:ml-40">
+    <div class="mt-12 lg:mt-0 lg:ml-20 xl:ml-40">
       <ProfessionalExperience />
       <MyProjects />
     </div>

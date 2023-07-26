@@ -1,7 +1,7 @@
 <template>
   <div>
-    <p class="font-medium text-white text-4xl md:text-6xl pb-10 tracking-wide">{{ $t('name') }}</p>
-    <p class="text-gray-400 text-2xl md:text-3xl tracking-wider uppercase">{{ $t('job') }}</p>
+    <h1 class="font-medium text-white text-5xl pb-5 lg:pb-10 tracking-wide lg:text-6xl">{{ $t('name') }}</h1>
+    <h2 class="text-gray-400 text-2xl tracking-wider uppercase lg:text-3xl">{{ $t('job') }}</h2>
   </div>
 </template>
 
