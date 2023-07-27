@@ -9,8 +9,8 @@
       </select>
     </div>
   </div>
-  <div class="m-10 font-roboto lg:grid lg:grid-cols-2 lg:m-32">
-    <div class="text-center lg:text-start lg:sticky lg:top-40 lg:h-[calc(100vh-617px)]">
+  <div class="mx-10 lg:m-0 font-roboto lg:grid lg:grid-cols-2 lg:mx-32">
+    <div class="text-center lg:text-start lg:sticky lg:top-20 lg:h-[calc(100vh-117px)]">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />

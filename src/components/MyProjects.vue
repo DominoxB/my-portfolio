@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-20 text-white">
+  <div class="mt-12 mb-10 text-white">
     <span class="uppercase font-semibold text-2xl text-white">{{ $t('projects') }}</span>
     <!-- DONUTINO -->
     <div class="relative group">
