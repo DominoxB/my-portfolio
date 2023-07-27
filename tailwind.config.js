@@ -4,10 +4,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        roboto: ['"Roboto"']
+        roboto: ['"Roboto"'],
+      },
+      spacing: {
+        "2/3": "66.666667%",
       },
     },
   },
   plugins: [],
-}
-
+};
