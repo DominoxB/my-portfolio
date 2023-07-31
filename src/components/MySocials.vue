@@ -8,15 +8,9 @@
     </div>
     <div class="flex items-center gap-4 pt-6">
       <img src="@/icons/linkedin.png" alt="github" class="w-8 h-8" />
-      <a href="https://www.linkedin.com/in/dominika-biedulska-8845881a4/" target="_blank">
+      <a href="https://www.linkedin.com/in/dominika-biedulska" target="_blank">
         <span class="">{{ $t('name') }}</span>
       </a>
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'MySocials'
-}
-</script>
