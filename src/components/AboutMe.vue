@@ -3,9 +3,3 @@
     <span>{{ $t('aboutMe') }}</span>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'AboutMe'
-}
-</script>

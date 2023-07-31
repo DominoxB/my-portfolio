@@ -4,9 +4,3 @@
     <h2 class="text-gray-400 text-2xl tracking-wider uppercase lg:text-3xl">{{ $t('job') }}</h2>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'NameAndProfession'
-}
-</script>

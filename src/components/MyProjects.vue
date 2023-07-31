@@ -40,9 +40,3 @@
       class="text-[10px]">{{ $t('freePik') }}</a>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'MyProjects'
-}
-</script>
