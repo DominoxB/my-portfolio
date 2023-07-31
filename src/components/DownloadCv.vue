@@ -6,8 +6,9 @@
   </div>
 </template>
 
-<script>
-export default {
+<script lang="ts">
+import { defineComponent } from 'vue';
+export default defineComponent({
   name: 'DownloadCv',
   setup() {
     const publicPath = process.env.BASE_URL
@@ -15,5 +16,5 @@ export default {
       publicPath
     }
   }
-}
+})
 </script>

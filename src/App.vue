@@ -24,7 +24,8 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent } from 'vue'
 import NameAndProfession from './components/NameAndProfession.vue'
 import MyTechnologies from './components/MyTechnologies.vue'
 import MySocials from './components/MySocials.vue'
@@ -34,7 +35,7 @@ import ProfessionalExperience from './components/ProfessionalExperience.vue'
 import MyProjects from './components/MyProjects.vue'
 import DownloadCv from './components/DownloadCv.vue'
 
-export default {
+export default defineComponent({
   name: 'App',
   components: {
     NameAndProfession,
@@ -46,5 +47,5 @@ export default {
     MyProjects,
     DownloadCv
   }
-}
+})
 </script>
