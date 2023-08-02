@@ -10,14 +10,14 @@
     </div>
   </div>
   <div class="mx-10 lg:m-0 font-roboto lg:grid lg:grid-cols-2 lg:mx-32">
-    <div class="text-center lg:text-start lg:sticky lg:top-20 lg:h-[calc(100vh-117px)]">
+    <div class="text-center lg:text-start lg:sticky lg:top-20 lg:h-[calc(100vh-117px)] lg:mr-20">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
       <DownloadCv />
       <MySocials />
     </div>
-    <div class="mt-12 lg:mt-0 lg:ml-20 xl:ml-40">
+    <div class="mt-12 lg:mt-0 lg:ml-20">
       <ProfessionalExperience />
       <MyProjects />
     </div>
