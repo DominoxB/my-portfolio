@@ -37,7 +37,7 @@
       </div>
     </div>
     <div class="mt-1">
-      <a href="https://pl.freepik.com/darmowe-wektory/gry-online-pojecia-ilustracja-z-komputerem_7961801.htm#query=computer%20games&position=20&from_view=search&track=country_rows_v1"
+      <a href="https://pl.freepik.com/darmowe-wektory/gracze-uzywajacy-roznych-urzadzen-i-grajacy-na-telefonie-komorkowym-tablecie-laptopie-konsoli-ilustracja-kreskowka_12699087.htm#page=2&query=computer%20games&position=40&from_view=search&track=country_rows_v1"
         class="text-[10px] text-gray-100">{{ $t('freePik') }}</a>
     </div>
   </div>

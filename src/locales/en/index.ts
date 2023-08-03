@@ -22,7 +22,7 @@ const en = {
   gameProject: `Design system for a gaming project <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).",
-  freePik: "Image by Freepik",
+  freePik: "Image by pch.vector on Freepik",
   btn: "Get my resume",
 };
 
