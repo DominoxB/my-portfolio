@@ -1,7 +1,7 @@
 <template>
   <div class="mt-12">
     <a :href="`${publicPath}cv.pdf`" download="Dominika_Biedulska_CV">
-      <button class="border border-blue-200 p-2 text-blue-200 tracking-wider hover:text-blue-300 hover:border-blue-300 uppercase text-sm">{{ $t('btn') }}</button>
+      <button class="border border-white p-2 tracking-wider hover:text-slate-200 hover:border-slate-200 uppercase text-sm">{{ $t('btn') }}</button>
     </a>
   </div>
 </template>

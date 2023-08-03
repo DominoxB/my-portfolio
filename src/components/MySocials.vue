@@ -1,5 +1,5 @@
 <template>
-  <div class="hidden pt-24 text-blue-200 font-semibold tracking-widest lg:block">
+  <div class="hidden pt-24 font-semibold tracking-widest lg:block">
     <div class="flex">
       <a href="https://github.com/DominoxB" target="_blank">
         <div class="flex items-center gap-4">

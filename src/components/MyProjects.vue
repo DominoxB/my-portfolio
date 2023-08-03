@@ -1,6 +1,6 @@
 <template>
   <div class="mt-12 mb-10 text-gray-900">
-    <span class="uppercase font-semibold text-2xl text-blue-200">{{ $t('projects') }}</span>
+    <span class="uppercase font-semibold text-2xl text-white">{{ $t('projects') }}</span>
     <!-- DONUTINO -->
     <div class="relative group pb-2/3">
       <img src="@/images/donutino.png" alt="donutino"

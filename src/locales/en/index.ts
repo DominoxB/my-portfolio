@@ -2,7 +2,7 @@ const en = {
   name: "Dominika Biedulska",
   job: "Junior Frontend Developer",
   aboutMe:
-    `I am a developer with <span class="text-blue-300">half a year of experience</span> in working on commercial projects. I had the opportunity to <span class="text-blue-300">work with a team</span> of frontend and backend developers as well as directly <span class="text-sky-500100700">with the client.</span> Earlier, I was <span class="text-blue-300">learning programming for a year</span> under the guidance of a <span class="text-blue-300">mentor.</span> I am <span class="text-blue-300">self-taught</span>, full of <span class="text-blue-300">motivation</span>, persistent in <span class="text-blue-300">pursuing my goals</span>.`,
+    `I am a developer with <span class="text-cyan-200">half a year of experience</span> in working on commercial projects. I had the opportunity to <span class="text-cyan-200">work with a team</span> of frontend and backend developers as well as directly <span class="text-sky-500100700">with the client.</span> Earlier, I was <span class="text-cyan-200">learning programming for a year</span> under the guidance of a <span class="text-cyan-200">mentor.</span> I am <span class="text-cyan-200">self-taught</span>, full of <span class="text-cyan-200">motivation</span>, persistent in <span class="text-cyan-200">pursuing my goals</span>.`,
   github: "DominoxB",
   experience: "Experience",
   enterPreis: "EnterPreis IT services Maciej Preis",
