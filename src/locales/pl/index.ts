@@ -2,7 +2,7 @@ const en = {
   name: "Dominika Biedulska",
   job: "Junior Frontend Developer",
   aboutMe:
-    "Jestem junior frontend developerem, mającym pół roku doświadczenia w pracy przy projektach komercyjnych. Miałam możliwość pracy z zespołem złożonym z frontend i backend developerów, a także bezpośrednio z klientem. Wcześniej przez rok uczyłam się programowania pod okiem mentora. Jestem samoukiem, pełnym motywacji, wytrwałym w dążeniu do celu.",
+    `Jestem developerem, mającym <span class="text-blue-300">pół roku doświadczenia</span> w pracy przy projektach komercyjnych. Miałam możliwość <span class="text-blue-300">pracy z zespołem</span> złożonym z frontend i backend developerów, a także bezpośrednio <span class="text-blue-300">z klientem.</span> Wcześniej <span class="text-blue-300">przez rok uczyłam się programowania</span> pod okiem <span class="text-blue-300">mentora.</span> Jestem <span class="text-blue-300">samoukiem,</span> pełnym <span class="text-blue-300">motywacji,</span> wytrwałym w <span class="text-blue-300">dążeniu do celu.</span>`,
   github: "DominoxB",
   experience: "Doświadczenie",
   enterPreis: "EnterPreis IT services Maciej Preis",
@@ -23,7 +23,7 @@ const en = {
   gameProject: "Design system dla projektu z branży gier",
   gameProjectDesc:
     "Byłam częścią zespołu pracującego nad design systemem dla projektu z branży gier. Wygląd i funkcjonalność aplikacji przygotowaliśmy na podstawie dostarczonego projektu graficznego (w Figmie).",
-  freePik: "Obraz autorstwa vectorjuice na Freepik",
+  freePik: "Obraz autorstwa Freepik",
   btn: "CV do pobrania",
 };
 
