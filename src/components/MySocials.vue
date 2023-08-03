@@ -1,5 +1,5 @@
 <template>
-  <div class="hidden pt-24 text-white font-semibold tracking-widest lg:block">
+  <div class="hidden pt-24 text-blue-200 font-semibold tracking-widest lg:block">
     <div class="flex items-center gap-4">
       <img src="@/icons/github.png" alt="github" class="w-8 h-8" />
       <a href="https://github.com/DominoxB" target="_blank">

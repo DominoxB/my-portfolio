@@ -1,5 +1,5 @@
 <template>
-  <div class="font-semibold text-gray-400 mt-5 text-justify">
-    <span>{{ $t('aboutMe') }}</span>
+  <div class="font-semibold text-blue-100 mt-10 text-justify">
+    <span v-html="$t('aboutMe')"></span>
   </div>
 </template>
