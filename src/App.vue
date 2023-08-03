@@ -1,7 +1,7 @@
 <template>
-  <div class="flex justify-end gap-10">
+  <div class="flex justify-end gap-6">
     <MySocialsMobile />
-    <div id="charger" class="mr-2 mt-8 font-roboto text-white flex justify-end">
+    <div id="charger" class="mr-2 mb-4 mt-8 font-roboto text-white flex justify-end lg:mb-0">
       <select v-model="$i18n.locale" class="cursor-pointer bg-black">
         <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">
           {{ locale }}
@@ -9,15 +9,15 @@
       </select>
     </div>
   </div>
-  <div class="mx-10 lg:m-0 font-roboto lg:grid lg:grid-cols-2 lg:mx-32">
-    <div class="text-center lg:text-start lg:sticky lg:top-20 lg:h-[calc(100vh-117px)] lg:mr-20">
+  <div class="mx-10 font-roboto lg:grid lg:grid-cols-2 lg:mx-32">
+    <div class="text-center lg:text-start lg:pt-16 lg:sticky lg:top-20 lg:h-[calc(100vh-117px)] lg:mr-16">
       <NameAndProfession />
       <AboutMe />
       <MyTechnologies />
       <DownloadCv />
       <MySocials />
     </div>
-    <div class="mt-12 lg:mt-0 lg:ml-20">
+    <div class="mt-12 lg:mt-8 lg:ml-16">
       <ProfessionalExperience />
       <MyProjects />
     </div>
