@@ -13,13 +13,13 @@ const en = {
   mentoringDate: "2021/12 – 2022/11",
   mentoringDesc: `I was a participant of the training where I learned the specifics of a developer's work. I had the opportunity to learn the basics of programming, teamwork, debugging and problem solving process.`,
   projects: "Projects",
-  shopName: "Donutino - online donut shop",
+  shopName: `Donutino - online donut shop <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:
     "I designed a project of online store with donuts, prepared its layout, logic and functionality. I used Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n, etc.",
-  nanny: "Znana Niania (not published yet)",
+  nanny: `<span class="text-xl lg:text-2xl">&#129528;</span> Znana Niania (not published yet)`,
   nannyDesc:
     "Page for matching parents and nannies. Work on the frontend with using Vue3, Atomic Design, REST API and cooperating with backend team.",
-  gameProject: "Design system for a gaming project",
+  gameProject: `Design system for a gaming project <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).",
   freePik: "Image by Freepik",

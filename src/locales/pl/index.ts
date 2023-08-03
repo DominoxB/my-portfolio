@@ -14,13 +14,13 @@ const en = {
   mentoringDesc:
     "Byłam uczestnikiem szkolenia, na którym poznałam specyfikę pracy programisty. Miałam okazję poznać podstawy programowania, pracy zespołowej, debugowania i rozwiązywania problemów.",
   projects: "Projekty",
-  shopName: "Donutino - sklep online",
+  shopName: `Donutino - sklep online <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:
     "Zaprojektowałam stronę sklepu internetowego z donutami, przygotowałam jego układ, logikę i funkcjonalność. Użyłam Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n itp.",
-  nanny: "Znana Niania (strona jeszcze nie opublikowana)",
+  nanny: `<span class="text-xl lg:text-2xl">&#129528;</span> Znana Niania (strona jeszcze nie opublikowana)`,
   nannyDesc:
     "Strona do kojarzenia rodziców i niań. Praca nad frontendem z wykorzystaniem Vue3, Atomic Design, REST API oraz współpraca z zespołem backendowym.",
-  gameProject: "Design system dla projektu z branży gier",
+  gameProject: `Design system dla projektu z branży gier <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "Byłam częścią zespołu pracującego nad design systemem dla projektu z branży gier. Wygląd i funkcjonalność aplikacji przygotowaliśmy na podstawie dostarczonego projektu graficznego (w Figmie).",
   freePik: "Obraz autorstwa Freepik",
