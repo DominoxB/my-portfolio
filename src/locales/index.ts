@@ -3,6 +3,7 @@ import en from "./en"
 import pl from "./pl"
 
 const i18n = createI18n({
+  warnHtmlInMessage: 'off',
   locale: "en",
   fallbackLocale: "pl",
   messages: { en, pl }

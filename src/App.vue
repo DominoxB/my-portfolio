@@ -9,7 +9,7 @@
       </select>
     </div>
   </div>
-  <div class="text-white mx-10 font-roboto lg:grid lg:grid-cols-2 lg:mx-80">
+  <div class="text-white mx-12 font-roboto lg:grid lg:grid-cols-2 md:mx-20 2xl:mx-40">
     <div class="text-center lg:text-start lg:pt-16 lg:sticky lg:top-20 lg:h-[calc(100vh-117px)] lg:mr-16">
       <NameAndProfession />
       <AboutMe />
