@@ -22,6 +22,8 @@ const en = {
   gameProject: `Design system for a gaming project <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).",
+  hangman: `<span class="text-xl lg:text-2xl">&#128128;</span> Hangman Game`,
+  hangmanDesc: 'A well-known and popular game from school days now in my online version. Written with Vue3 and Tailwind',
   freePik: "Image by pch.vector on Freepik",
   btn: "Get my resume",
 };

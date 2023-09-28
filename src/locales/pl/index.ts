@@ -23,6 +23,8 @@ const pl = {
   gameProject: `Design system dla projektu z branży gier <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "Byłam częścią zespołu pracującego nad design systemem dla projektu z branży gier. Wygląd i funkcjonalność aplikacji przygotowaliśmy na podstawie dostarczonego projektu graficznego (w Figmie).",
+  hangman: `<span class="text-xl lg:text-2xl">&#128128;</span> Gra Wisielec`,
+  hangmanDesc: 'Projekt znanej i lubianej gry z czasów szkolnmych w wersji online. Napisana za pomocą Vue3 i Tailwinda.',
   freePik: "Obraz autorstwa pch.vector na Freepik",
   btn: "CV do pobrania",
 };
