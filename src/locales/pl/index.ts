@@ -1,4 +1,4 @@
-const en = {
+const pl = {
   name: "Dominika Biedulska",
   job: "Junior Frontend Developer",
   aboutMe:
@@ -27,4 +27,4 @@ const en = {
   btn: "CV do pobrania",
 };
 
-export default en;
+export default pl;
