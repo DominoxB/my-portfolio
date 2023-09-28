@@ -40,5 +40,18 @@
       <a href="https://pl.freepik.com/darmowe-wektory/gracze-uzywajacy-roznych-urzadzen-i-grajacy-na-telefonie-komorkowym-tablecie-laptopie-konsoli-ilustracja-kreskowka_12699087.htm#page=2&query=computer%20games&position=40&from_view=search&track=country_rows_v1"
         class="text-[10px] text-gray-100">{{ $t('freePik') }}</a>
     </div>
+    <!-- HANGMAN -->
+    <div class="relative group mt-12 pb-2/3">
+      <img src="@/images/hangman.png" alt="hangman"
+        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
+      <a href="https://dominoxb.github.io/gra-wisielec/" target="_blank">
+        <div
+          class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+          <span class="text-sm font-bold lg:text-base" v-html="$t('hangman')"></span>
+          <p class="text-xs mt-1 lg:text-sm">{{ $t('hangmanDesc') }}
+          </p>
+        </div>
+      </a>
+    </div>
   </div>
 </template>
