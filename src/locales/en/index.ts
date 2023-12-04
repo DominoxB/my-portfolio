@@ -26,6 +26,8 @@ const en = {
   hangmanDesc: 'A well-known and popular game from school days now in my online version. Written with Vue3 and Tailwind',
   freePik: "Image by pch.vector on Freepik",
   btn: "Get my resume",
+  lang: `Lang4You - language tests <span class="text-xl lg:text-2xl">&#128203;</span>`,
+  langDesc: 'Application to check your foreign language level. TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind were used to write it.'
 };
 
 export default en;

@@ -27,6 +27,8 @@ const pl = {
   hangmanDesc: 'Projekt znanej i lubianej gry z czasów szkolnych w wersji online. Napisana za pomocą Vue3 i Tailwinda.',
   freePik: "Obraz autorstwa pch.vector na Freepik",
   btn: "CV do pobrania",
+  lang: `Lang4You - testy językowe <span class="text-xl lg:text-2xl">&#128203;</span>`,
+  langDesc: 'Aplikacja do sprawdzania poziomu języka obcego. Do jej napisania wykorzystano TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind.'
 };
 
 export default pl;
