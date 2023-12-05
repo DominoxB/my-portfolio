@@ -14,10 +14,10 @@ const en = {
   projects: "Projects",
   shopName: `Donutino - online donut shop <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:
-    "I designed a project of online store with donuts, prepared its layout, logic and functionality. I used Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n, etc.",
+    "I designed a project of online store with donuts, prepared its layout, logic and functionality. I used Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n.",
   nanny: `<span class="text-xl lg:text-2xl">&#129528;</span> Znana Niania (not published yet)`,
   nannyDesc:
-    "Application for matching parents and nannies. Work on the frontend with using Vue3, Atomic Design, REST API and cooperating with backend team.",
+    "Application for matching parents and nannies. Work on the frontend with using Vue3, Atomic Design, REST API and cooperating with backend.",
   gameProject: `Design system for a gaming project <span class="text-xl lg:text-2xl">&#127918;</span>`,
   gameProjectDesc:
     "I was part of the team working on the design system for a gaming project. We prepared application design and functionality based on the provided graphic project (in Figma).",

@@ -15,7 +15,7 @@ const pl = {
   projects: "Projekty",
   shopName: `Donutino - sklep online <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:
-    "Zaprojektowałam aplikację sklepu internetowego z donutami, przygotowałam jego układ, logikę i funkcjonalność. Użyłam Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n itp.",
+    "Zaprojektowałam aplikację sklepu internetowego z donutami, przygotowałam jego układ, logikę i funkcjonalność. Użyłam Vue3, Pinia, Vue Router, Tailwind, Vuelidate, i18n.",
   nanny: `<span class="text-xl lg:text-2xl">&#129528;</span> Znana Niania (strona jeszcze nie opublikowana)`,
   nannyDesc:
     "Aplikacja do kojarzenia rodziców i niań. Praca nad frontendem z wykorzystaniem Vue3, Atomic Design, REST API oraz współpraca z zespołem backendowym.",
