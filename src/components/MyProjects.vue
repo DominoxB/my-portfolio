@@ -7,7 +7,7 @@
       class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
     <a href="https://dominoxb.github.io/language-tests/" target="_blank">
       <div
-        class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
         <span class="text-sm font-bold lg:text-base" v-html="$t('lang')"></span>
         <p class="text-xs mt-1 lg:text-sm">{{ $t('langDesc') }}
         </p>
@@ -20,7 +20,7 @@
         class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/gra-wisielec/" target="_blank">
         <div
-          class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+          class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('hangman')"></span>
           <p class="text-xs mt-1 lg:text-sm">{{ $t('hangmanDesc') }}
           </p>
@@ -33,7 +33,7 @@
         class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/donutshop/" target="_blank">
         <div
-          class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
+          class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('shopName')"></span>
           <p class="text-xs font-medium mt-1 lg:text-sm">{{ $t('shopDesc') }}
           </p>
@@ -45,7 +45,7 @@
       <img src="@/images/zn.png" alt="zn"
         class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <div
-        class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
+        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
         <span class="text-sm font-bold lg:text-base" v-html="$t('nanny')"></span>
         <p class="text-xs mt-1 lg:text-sm">{{ $t('nannyDesc') }}
         </p>
@@ -56,7 +56,7 @@
       <img src="@/images/games.png" alt="games"
         class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <div
-        class="p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
         <span class="text-sm font-bold lg:text-base" v-html="$t('gameProject')"></span>
         <p class="text-xs mt-1 lg:text-sm">{{ $t('gameProjectDesc') }}
         </p>
