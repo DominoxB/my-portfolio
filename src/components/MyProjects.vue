@@ -2,7 +2,7 @@
   <div class="mt-12 mb-10 text-gray-900">
     <span class="uppercase font-semibold text-2xl text-white">{{ $t('projects') }}</span>
     <!-- LANGUAGE TESTS -->
-    <div class="relative group mt-12 pb-2/3">
+    <div class="relative group pb-2/3">
     <img src="@/images/language-page.png" alt="tests"
       class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
     <a href="https://dominoxb.github.io/language-tests/" target="_blank">
