@@ -8,11 +8,10 @@ const pl = {
   enterPreis: "EnterPreis IT services",
   jobDate: "2022/12 – 2023/06",
   jobDesc:
-    "Jako junior developer na początku byłam odpowiedzialna za realizację powierzonych mi zadań związanych z frontem (stylizacja, tworzenie komponentów i logiki). Później brałam również udział w projektowaniu i łączeniu prac nad frontem z backendem.",
+    "Po ukończeniu szkolenia zostałam zatrudniona jako Junior Developer. Byłam odpowiedzialna za realizację powierzonych mi zadań związanych z frontem (stylizacja, tworzenie komponentów i logiki). Później brałam również udział w projektowaniu i łączeniu prac nad frontem z backendem. Byłam też członkiem zespołu zajmującego się migracją projektu na Vue 3.",
   mentoring: "Uczestnik Szkolenia",
-  mentoringDate: "2021/12 – 2022/11",
   mentoringDesc:
-    "Byłam uczestnikiem szkolenia, na którym poznałam specyfikę pracy programisty. Miałam okazję poznać podstawy programowania, pracy zespołowej, debugowania i rozwiązywania problemów.",
+    "Byłam uczestnikiem rocznego szkolenia, na którym poznałam specyfikę pracy programisty. Miałam okazję poznać podstawy programowania, pracy zespołowej, debugowania i rozwiązywania problemów.",
   projects: "Projekty",
   shopName: `Donutino - sklep online <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:

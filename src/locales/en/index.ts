@@ -6,12 +6,11 @@ const en = {
   github: "DominoxB",
   experience: "Experience",
   enterPreis: "EnterPreis IT services",
-  jobDate: "2022/12 – 2023/06",
+  jobDate: "2021/12 – 2023/11",
   jobDesc:
-    "As a Junior developer at the beginning I was responsible for the implementation of the assigned tasks related to the front (styling, creating components and logic). Later, I also participated in designing entire projects and combining work on the front side with the backend.",
+    "After completing the training, I was employed as a Junior Developer. I was responsible for the implementation of the assigned tasks related to the front (styling, creating components and logic). I also participated in designing entire projects and combining work on the front side with the backend. I was also a member of the team responsible for migrating the project to Vue 3.",
   mentoring: "Mentoring Participant",
-  mentoringDate: "2021/12 – 2022/11",
-  mentoringDesc: `I was a participant of the training where I learned the specifics of a developer's work. I had the opportunity to learn the basics of programming, teamwork, debugging and problem solving process.`,
+  mentoringDesc: `I was a participant of the one-year training where I learned the specifics of a developer's work. I had the opportunity to learn the basics of programming, teamwork, debugging and problem solving process.`,
   projects: "Projects",
   shopName: `Donutino - online donut shop <span class="text-xl lg:text-2xl">&#127849;</span>`,
   shopDesc:
