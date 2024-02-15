@@ -1,5 +1,5 @@
 <template>
-  <div class="font-semibold text-justify">
+  <div class="font-semibold text-center md:text-justify">
     <span class="uppercase font-semibold text-2xl">{{ $t('experience') }}</span>
     <h3 class="mt-2 text-xl">{{ $t('enterPreis') }} ({{ $t('jobDate') }})</h3>
     <br>

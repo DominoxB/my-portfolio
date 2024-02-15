@@ -1,18 +1,42 @@
 <template>
   <div class="mt-12 mb-10 text-gray-900">
     <span class="uppercase font-semibold text-2xl text-white">{{ $t('projects') }}</span>
-    <!-- LANGUAGE TESTS -->
-    <div class="relative group pb-2/3">
-    <img src="@/images/language-page.png" alt="tests"
-      class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
-    <a href="https://dominoxb.github.io/language-tests/" target="_blank">
+    <!-- ZNANA NIANIA -->
+    <div class="relative group mb-12 pb-2/3">
+      <img src="@/images/zn.png" alt="zn"
+        class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <div
-        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
-        <span class="text-sm font-bold lg:text-base" v-html="$t('lang')"></span>
-        <p class="text-xs mt-1 lg:text-sm">{{ $t('langDesc') }}
+        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
+        <span class="text-sm font-bold lg:text-base" v-html="$t('nanny')"></span>
+        <p class="text-xs mt-1 lg:text-sm">{{ $t('nannyDesc') }}
         </p>
       </div>
-    </a>
+    </div>
+    <!-- GAME4YOU -->
+    <div class="relative group pb-2/3 mb-12">
+      <img src="@/images/game4you.png" alt="tests"
+        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
+      <a href="https://dominoxb.github.io/Game4You/" target="_blank">
+        <div
+          class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+          <span class="text-sm font-bold lg:text-base" v-html="$t('games')"></span>
+          <p class="text-xs mt-1 lg:text-sm">{{ $t('gamesDesc') }}
+          </p>
+        </div>
+      </a>
+    </div>
+    <!-- LANGUAGE TESTS -->
+    <div class="relative group pb-2/3">
+      <img src="@/images/language-page.png" alt="tests"
+        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
+      <a href="https://dominoxb.github.io/language-tests/" target="_blank">
+        <div
+          class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
+          <span class="text-sm font-bold lg:text-base" v-html="$t('lang')"></span>
+          <p class="text-xs mt-1 lg:text-sm">{{ $t('langDesc') }}
+          </p>
+        </div>
+      </a>
     </div>
     <!-- HANGMAN -->
     <div class="relative group mt-12 pb-2/3">
@@ -39,17 +63,6 @@
           </p>
         </div>
       </a>
-    </div>
-    <!-- ZNANA NIANIA -->
-    <div class="relative group mt-12 pb-2/3">
-      <img src="@/images/zn.png" alt="zn"
-        class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
-      <div
-        class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
-        <span class="text-sm font-bold lg:text-base" v-html="$t('nanny')"></span>
-        <p class="text-xs mt-1 lg:text-sm">{{ $t('nannyDesc') }}
-        </p>
-      </div>
     </div>
     <!-- GAMING PROJECT -->
     <div class="relative group mt-12 pb-2/3">
