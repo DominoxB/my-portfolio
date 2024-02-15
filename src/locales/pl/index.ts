@@ -27,7 +27,9 @@ const pl = {
   freePik: "Obraz autorstwa pch.vector na Freepik",
   btn: "CV do pobrania",
   lang: `Lang4You - testy językowe <span class="text-xl lg:text-2xl">&#128203;</span>`,
-  langDesc: 'Aplikacja do sprawdzania poziomu języka obcego. Do jej napisania wykorzystano TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind.'
+  langDesc: 'Aplikacja do sprawdzania poziomu języka obcego. Do jej napisania wykorzystano TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind.',
+  games: `Game4You - aplikacja z grami online <span class="text-xl lg:text-2xl">&#127918;</span>`,
+  gamesDesc: "Game4You to aplikacja stworzona dla fanów klasycznych gier: Memory oraz Kółko i Krzyżyk. Napisana we Vue3, przy pomocy Typescripta, Tailwinda, Pinii, i18n oraz Vue Router."
 };
 
 export default pl;

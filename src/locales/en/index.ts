@@ -26,7 +26,9 @@ const en = {
   freePik: "Image by pch.vector on Freepik",
   btn: "Get my resume",
   lang: `Lang4You - language tests <span class="text-xl lg:text-2xl">&#128203;</span>`,
-  langDesc: 'Application to check your foreign language level. TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind were used to write it.'
+  langDesc: 'Application to check your foreign language level. TypeScript, Vue3, Pinia, Vue Router, i18n, Tailwind were used to write it.',
+  games: `Game4You - online games application <span class="text-xl lg:text-2xl">&#127918;</span>`,
+  gamesDesc: "Game4You is an application created for fans of classic games: Memory and Tic-Tac-Toe. Written in Vue3, with Typescript, Tailwind, Pinia, i18n and Vue Router."
 };
 
 export default en;
