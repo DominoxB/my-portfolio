@@ -14,9 +14,9 @@
     </div>
     <!-- GAME4YOU -->
     <div class="relative group pb-2/3 mb-12">
-      <img src="@/images/game4you.png" alt="tests"
-        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/Game4You/" target="_blank">
+        <img src="@/images/game4you.png" alt="tests"
+          class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
         <div
           class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('games')"></span>
@@ -27,9 +27,9 @@
     </div>
     <!-- LANGUAGE TESTS -->
     <div class="relative group pb-2/3">
-      <img src="@/images/language-page.png" alt="tests"
-        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/language-tests/" target="_blank">
+        <img src="@/images/language-page.png" alt="tests"
+          class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
         <div
           class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('lang')"></span>
@@ -40,9 +40,9 @@
     </div>
     <!-- HANGMAN -->
     <div class="relative group mt-12 pb-2/3">
-      <img src="@/images/hangman.png" alt="hangman"
-        class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/gra-wisielec/" target="_blank">
+        <img src="@/images/hangman.png" alt="hangman"
+          class="absolute w-full h-full rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
         <div
           class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-90 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-70 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('hangman')"></span>
@@ -53,9 +53,9 @@
     </div>
     <!-- DONUTINO -->
     <div class="relative group mt-12 pb-2/3">
-      <img src="@/images/donutino.png" alt="donutino"
-        class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
       <a href="https://dominoxb.github.io/donutshop/" target="_blank">
+        <img src="@/images/donutino.png" alt="donutino"
+          class="absolute h-full w-full object-cover rounded-md border-2 border-white mt-2 opacity-40 transition duration-700 lg:opacity-100 lg:group-hover:opacity-30" />
         <div
           class="p-1 md:p-2 w-full opacity-90 transition duration-700 absolute bottom-0 text-center bg-sky-100 bg-opacity-80 lg:opacity-0 lg:group-hover:opacity-100 lg:bg-opacity-60 xl:p-8">
           <span class="text-sm font-bold lg:text-base" v-html="$t('shopName')"></span>
