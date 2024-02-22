@@ -2,13 +2,13 @@ const en = {
   name: "Dominika Biedulska",
   job: "Junior Frontend Developer",
   aboutMe:
-    `I am a developer with <span class="text-cyan-200">almost a year of experience</span> in working on commercial projects. I had the opportunity to <span class="text-cyan-200">work with a team</span> of frontend and backend developers as well as directly <span class="text-sky-500100700">with the client.</span> Earlier, I was <span class="text-cyan-200">learning programming for a year</span> under the guidance of a <span class="text-cyan-200">mentor.</span> I am <span class="text-cyan-200">self-taught</span>, full of <span class="text-cyan-200">motivation</span>, persistent in <span class="text-cyan-200">pursuing my goals</span>.`,
+    `I am a developer with <span class="text-cyan-200">first experience</span> in working on commercial projects. I had the opportunity to <span class="text-cyan-200">work with a team</span> of frontend and backend developers as well as directly <span class="text-sky-500100700">with the client.</span> Earlier, I was <span class="text-cyan-200">learning programming for a year</span> under the guidance of a <span class="text-cyan-200">mentor.</span> I am <span class="text-cyan-200">self-taught</span>, full of <span class="text-cyan-200">motivation</span>, persistent in <span class="text-cyan-200">pursuing my goals</span>.`,
   github: "DominoxB",
   experience: "Experience",
   enterPreis: "EnterPreis IT services",
   jobDate: "2021/12 – 2023/11",
   jobDesc:
-    "After completing the training, I was employed as a Junior Developer. I was responsible for the implementation of the assigned tasks related to the front (styling, creating components and logic). I also participated in designing entire projects and combining work on the front side with the backend. I was also a member of the team responsible for migrating the project to Vue 3.",
+    "After completing the mentoring training, I was employed as a Junior Developer. I was responsible for the implementation of the assigned tasks related to the front (styling, creating components and logic). I also participated in designing entire projects and combining work on the front side with the backend. I was also a member of the team responsible for migrating the project to Vue 3.",
   mentoring: "Mentoring Participant",
   mentoringDesc: `I was a participant of the one-year training where I learned the specifics of a developer's work. I had the opportunity to learn the basics of programming, teamwork, debugging and problem solving process.`,
   projects: "Projects",
